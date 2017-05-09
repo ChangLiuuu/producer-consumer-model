@@ -1,5 +1,3 @@
-package pro_con;
-
 import java.util.Scanner;
 import java.util.concurrent.LinkedBlockingQueue;
 

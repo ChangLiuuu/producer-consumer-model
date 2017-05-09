@@ -1,5 +1,3 @@
-package pro_con;
-
 import java.util.Scanner;
 
 import pro_con.Queue_Pro_Con.Consumer;
